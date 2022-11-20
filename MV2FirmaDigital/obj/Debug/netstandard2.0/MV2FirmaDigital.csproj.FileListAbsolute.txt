@@ -1,0 +1,16 @@
+C:\Users\Juan Carlos Vigil\Desktop\Tareas 2 Movil 2\ejercicio2.2 PMO2\MV2FirmaDigital\bin\Debug\netstandard2.0\MV2FirmaDigital.deps.json
+C:\Users\Juan Carlos Vigil\Desktop\Tareas 2 Movil 2\ejercicio2.2 PMO2\MV2FirmaDigital\bin\Debug\netstandard2.0\MV2FirmaDigital.dll
+C:\Users\Juan Carlos Vigil\Desktop\Tareas 2 Movil 2\ejercicio2.2 PMO2\MV2FirmaDigital\bin\Debug\netstandard2.0\ref\MV2FirmaDigital.dll
+C:\Users\Juan Carlos Vigil\Desktop\Tareas 2 Movil 2\ejercicio2.2 PMO2\MV2FirmaDigital\bin\Debug\netstandard2.0\MV2FirmaDigital.pdb
+C:\Users\Juan Carlos Vigil\Desktop\Tareas 2 Movil 2\ejercicio2.2 PMO2\MV2FirmaDigital\obj\Debug\netstandard2.0\MV2FirmaDigital.csproj.AssemblyReference.cache
+C:\Users\Juan Carlos Vigil\Desktop\Tareas 2 Movil 2\ejercicio2.2 PMO2\MV2FirmaDigital\obj\Debug\netstandard2.0\MV2FirmaDigital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Carlos Vigil\Desktop\Tareas 2 Movil 2\ejercicio2.2 PMO2\MV2FirmaDigital\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Juan Carlos Vigil\Desktop\Tareas 2 Movil 2\ejercicio2.2 PMO2\MV2FirmaDigital\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Juan Carlos Vigil\Desktop\Tareas 2 Movil 2\ejercicio2.2 PMO2\MV2FirmaDigital\obj\Debug\netstandard2.0\Views\ListarFirmas.xaml.g.cs
+C:\Users\Juan Carlos Vigil\Desktop\Tareas 2 Movil 2\ejercicio2.2 PMO2\MV2FirmaDigital\obj\Debug\netstandard2.0\MV2FirmaDigital.AssemblyInfoInputs.cache
+C:\Users\Juan Carlos Vigil\Desktop\Tareas 2 Movil 2\ejercicio2.2 PMO2\MV2FirmaDigital\obj\Debug\netstandard2.0\MV2FirmaDigital.AssemblyInfo.cs
+C:\Users\Juan Carlos Vigil\Desktop\Tareas 2 Movil 2\ejercicio2.2 PMO2\MV2FirmaDigital\obj\Debug\netstandard2.0\MV2FirmaDigital.csproj.CoreCompileInputs.cache
+C:\Users\Juan Carlos Vigil\Desktop\Tareas 2 Movil 2\ejercicio2.2 PMO2\MV2FirmaDigital\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Juan Carlos Vigil\Desktop\Tareas 2 Movil 2\ejercicio2.2 PMO2\MV2FirmaDigital\obj\Debug\netstandard2.0\MV2FirmaDigital.dll
+C:\Users\Juan Carlos Vigil\Desktop\Tareas 2 Movil 2\ejercicio2.2 PMO2\MV2FirmaDigital\obj\Debug\netstandard2.0\ref\MV2FirmaDigital.dll
+C:\Users\Juan Carlos Vigil\Desktop\Tareas 2 Movil 2\ejercicio2.2 PMO2\MV2FirmaDigital\obj\Debug\netstandard2.0\MV2FirmaDigital.pdb
